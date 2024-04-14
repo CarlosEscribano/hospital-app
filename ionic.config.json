@@ -1,0 +1,8 @@
+{
+  "name": "HospitalApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "003fb78f"
+}
